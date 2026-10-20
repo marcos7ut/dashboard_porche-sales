@@ -1,0 +1,101 @@
+﻿id;versao;linha;segmento;propulsao;ano;cidade;uf;regiao;forma_pagamento;fator_versao;valor_brl
+VND-001;718 Cayman;718;Esportivo;Combustão;2022;Campinas;SP;Sudeste;Cartão de crédito;1,1373;933000
+VND-002;911 Turbo S;911;Esportivo;Combustão;2024;Recife;PE;Nordeste;Pix;2,4403;2391000
+VND-003;Cayenne Coupe;Cayenne;SUV;Combustão;2023;Brasília;DF;Centro-Oeste;Financiamento;1,4681;1189000
+VND-004;Macan S;Macan;SUV;Combustão;2021;Belo Horizonte;MG;Sudeste;Dinheiro;1,1698;678000
+VND-005;Taycan 4S;Taycan;Sedã / GT;Elétrico;2024;Fortaleza;CE;Nordeste;TED;1,0351;880000
+VND-006;Panamera 4;Panamera;Sedã / GT;Combustão;2023;Rio de Janeiro;RJ;Sudeste;Cartão de crédito;1,4615;1403000
+VND-007;911 Carrera S;911;Esportivo;Combustão;2020;Porto Alegre;RS;Sul;Leasing;1,0;980000
+VND-008;Cayenne E-Hybrid;Cayenne;SUV;Híbrido;2022;Florianópolis;SC;Sul;Pix;1,1686;947000
+VND-009;718 Boxster;718;Esportivo;Combustão;2021;Goiânia;GO;Centro-Oeste;Cartão de débito;1,0515;862000
+VND-010;Macan GTS;Macan;SUV;Combustão;2024;São Paulo;SP;Sudeste;Financiamento;1,6129;935000
+VND-011;Taycan Turbo;Taycan;Sedã / GT;Elétrico;2023;São Paulo;SP;Sudeste;Boleto;1,3105;1114000
+VND-012;911 GT3;911;Esportivo;Combustão;2024;Goiânia;GO;Centro-Oeste;Pix;2,5026;2453000
+VND-013;Panamera Turbo S;Panamera;Sedã / GT;Combustão;2022;São Paulo;SP;Sudeste;Dinheiro;1,8462;1772000
+VND-014;Cayenne Turbo GT;Cayenne;SUV;Combustão;2024;Fortaleza;CE;Nordeste;Criptomoeda;2,4479;1983000
+VND-015;911 Carrera Cabriolet;911;Esportivo;Combustão;2023;São Paulo;SP;Sudeste;Cartão de crédito;1,3271;1301000
+VND-016;Macan;Macan;SUV;Combustão;2021;Recife;PE;Nordeste;TED;1,0;580000
+VND-017;718 Spyder RS;718;Esportivo;Combustão;2024;Belo Horizonte;MG;Sudeste;Financiamento;2,3462;1924000
+VND-018;Taycan Cross Turismo;Taycan;Sedã / GT;Elétrico;2023;Porto Alegre;RS;Sul;Pix;1,0137;862000
+VND-019;Cayenne S;Cayenne;SUV;Combustão;2022;São Paulo;SP;Sudeste;Cartão de crédito;1,1888;963000
+VND-020;911 Targa 4S;911;Esportivo;Combustão;2024;Belo Horizonte;MG;Sudeste;Leasing;1,6485;1616000
+VND-021;Panamera;Panamera;Sedã / GT;Combustão;2020;Brasília;DF;Centro-Oeste;TED;1,007;967000
+VND-022;Macan Electric;Macan;SUV;Elétrico;2025;São Paulo;SP;Sudeste;Pix;1,4686;852000
+VND-023;911 Dakar;911;Esportivo;Combustão;2024;Salvador;BA;Nordeste;Dinheiro;2,8037;2748000
+VND-024;Taycan GTS;Taycan;Sedã / GT;Elétrico;2023;Rio de Janeiro;RJ;Sudeste;Financiamento;1,1891;1011000
+VND-025;Cayenne;Cayenne;SUV;Combustão;2021;Campinas;SP;Sudeste;Cartão de crédito;1,0;810000
+VND-026;718 Cayman GT4 RS;718;Esportivo;Combustão;2024;Campinas;SP;Sudeste;Pix;2,4835;2036000
+VND-027;911 Carrera GTS;911;Esportivo;Combustão;2022;Goiânia;GO;Centro-Oeste;Dinheiro;1,2451;1220000
+VND-028;Panamera 4 E-Hybrid;Panamera;Sedã / GT;Híbrido;2023;São Paulo;SP;Sudeste;Leasing;1,528;1467000
+VND-029;Macan T;Macan;SUV;Combustão;2022;Ribeirão Preto;SP;Sudeste;Pix;1,3922;807000
+VND-030;Taycan Turbo S;Taycan;Sedã / GT;Elétrico;2025;Belo Horizonte;MG;Sudeste;Criptomoeda;1,8306;1556000
+VND-031;911 Carrera;911;Esportivo;Combustão;2024;Curitiba;PR;Sul;Cartão de crédito;1,2928;1267000
+VND-032;Cayenne S;Cayenne;SUV;Combustão;2023;São Paulo;SP;Sudeste;TED;1,2786;1036000
+VND-033;Macan;Macan;SUV;Combustão;2022;São Paulo;SP;Sudeste;Financiamento;1,146;665000
+VND-034;Taycan;Taycan;Sedã / GT;Elétrico;2025;Belo Horizonte;MG;Sudeste;Pix;1,0;850000
+VND-035;Panamera 4S;Panamera;Sedã / GT;Combustão;2024;Rio de Janeiro;RJ;Sudeste;Dinheiro;1,5664;1504000
+VND-036;718 Boxster;718;Esportivo;Combustão;2021;Florianópolis;SC;Sul;Cartão de débito;1,0587;868000
+VND-037;911 Turbo;911;Esportivo;Combustão;2024;São Paulo;SP;Sudeste;Pix;2,0592;2018000
+VND-038;Cayenne Coupe;Cayenne;SUV;Combustão;2023;São Paulo;SP;Sudeste;Pix;1,3509;1094000
+VND-039;Macan GTS;Macan;SUV;Combustão;2024;Brasília;DF;Centro-Oeste;Financiamento;1,5891;922000
+VND-040;Taycan 4S;Taycan;Sedã / GT;Elétrico;2025;Belo Horizonte;MG;Sudeste;Boleto;1,1035;938000
+VND-041;Panamera Turbo;Panamera;Sedã / GT;Combustão;2022;São Paulo;SP;Sudeste;Cartão de crédito;1,9021;1826000
+VND-042;911 GT3 RS;911;Esportivo;Combustão;2024;Campinas;SP;Sudeste;Pix;2,9751;2916000
+VND-043;Cayenne E-Hybrid;Cayenne;SUV;Híbrido;2023;Florianópolis;SC;Sul;Leasing;1,2083;979000
+VND-044;Macan T;Macan;SUV;Combustão;2022;São Paulo;SP;Sudeste;Dinheiro;1,2292;713000
+VND-045;Taycan Turbo;Taycan;Sedã / GT;Elétrico;2025;Curitiba;PR;Sul;Criptomoeda;1,3559;1153000
+VND-046;718 Cayman;718;Esportivo;Combustão;2021;São Paulo;SP;Sudeste;TED;1,0;820000
+VND-047;911 Targa 4;911;Esportivo;Combustão;2024;Recife;PE;Nordeste;Financiamento;1,4668;1437000
+VND-048;Panamera;Panamera;Sedã / GT;Combustão;2020;Salvador;BA;Nordeste;Pix;1,0;960000
+VND-049;Cayenne Turbo;Cayenne;SUV;Combustão;2023;Rio de Janeiro;RJ;Sudeste;Cartão de crédito;1,9115;1548000
+VND-050;Macan Electric;Macan;SUV;Elétrico;2025;São Paulo;SP;Sudeste;Leasing;1,5229;883000
+VND-051;911 Carrera S;911;Esportivo;Combustão;2022;Florianópolis;SC;Sul;TED;1,0862;1064000
+VND-052;Taycan GTS;Taycan;Sedã / GT;Elétrico;2024;São Paulo;SP;Sudeste;Pix;1,2147;1032000
+VND-053;Cayenne;Cayenne;SUV;Combustão;2021;Ribeirão Preto;SP;Sudeste;Dinheiro;1,0208;827000
+VND-054;718 Spyder RS;718;Esportivo;Combustão;2025;São Paulo;SP;Sudeste;Financiamento;2,4177;1983000
+VND-055;911 Dakar;911;Esportivo;Combustão;2024;Porto Alegre;RS;Sul;Cartão de crédito;2,7923;2736000
+VND-056;Panamera 4;Panamera;Sedã / GT;Combustão;2023;São Paulo;SP;Sudeste;Pix;1,4168;1360000
+VND-057;Macan S;Macan;SUV;Combustão;2021;Rio de Janeiro;RJ;Sudeste;Dinheiro;1,1333;657000
+VND-058;Taycan Cross Turismo;Taycan;Sedã / GT;Elétrico;2024;Ribeirão Preto;SP;Sudeste;Leasing;1,0941;930000
+VND-059;Cayenne Turbo GT;Cayenne;SUV;Combustão;2025;São Paulo;SP;Sudeste;Pix;2,6042;2109000
+VND-060;911 Carrera Cabriolet;911;Esportivo;Combustão;2023;Curitiba;PR;Sul;Criptomoeda;1,3707;1343000
+VND-061;718 Cayman GT4 RS;718;Esportivo;Combustão;2024;Florianópolis;SC;Sul;Cartão de crédito;2,5236;2069000
+VND-062;Panamera 4 E-Hybrid;Panamera;Sedã / GT;Híbrido;2022;São Paulo;SP;Sudeste;TED;1,5175;1457000
+VND-063;Macan;Macan;SUV;Combustão;2021;Curitiba;PR;Sul;Financiamento;1,0017;581000
+VND-064;Taycan Turbo S;Taycan;Sedã / GT;Elétrico;2025;Porto Alegre;RS;Sul;Pix;1,8648;1585000
+VND-065;Cayenne S;Cayenne;SUV;Combustão;2024;Curitiba;PR;Sul;Cartão de débito;1,3014;1054000
+VND-066;911 Carrera GTS;911;Esportivo;Combustão;2024;Rio de Janeiro;RJ;Sudeste;Cartão de crédito;1,2643;1239000
+VND-067;718 Boxster GTS;718;Esportivo;Combustão;2023;Brasília;DF;Centro-Oeste;Leasing;1,309;1073000
+VND-068;Panamera Turbo S;Panamera;Sedã / GT;Combustão;2022;Campinas;SP;Sudeste;Pix;1,8741;1799000
+VND-069;Macan GTS;Macan;SUV;Combustão;2024;Curitiba;PR;Sul;Boleto;1,6435;953000
+VND-070;Taycan 4S;Taycan;Sedã / GT;Elétrico;2025;São Paulo;SP;Sudeste;Pix;1,1257;957000
+VND-071;Cayenne E-Hybrid;Cayenne;SUV;Híbrido;2023;Belo Horizonte;MG;Sudeste;Dinheiro;1,2279;995000
+VND-072;911 Turbo S;911;Esportivo;Combustão;2025;Fortaleza;CE;Nordeste;Criptomoeda;2,513;2463000
+VND-073;718 Cayman S;718;Esportivo;Combustão;2022;Florianópolis;SC;Sul;Cartão de crédito;1,1838;971000
+VND-074;Macan Electric;Macan;SUV;Elétrico;2026;Porto Alegre;RS;Sul;Pix;1,5501;899000
+VND-075;Panamera;Panamera;Sedã / GT;Combustão;2021;Rio de Janeiro;RJ;Sudeste;Financiamento;1,1175;1073000
+VND-076;Cayenne Coupe;Cayenne;SUV;Combustão;2024;Rio de Janeiro;RJ;Sudeste;TED;1,4453;1171000
+VND-077;911 Targa 4S;911;Esportivo;Combustão;2023;Rio de Janeiro;RJ;Sudeste;Dinheiro;1,6251;1593000
+VND-078;Taycan;Taycan;Sedã / GT;Elétrico;2025;Brasília;DF;Centro-Oeste;Leasing;1,0257;872000
+VND-079;Macan T;Macan;SUV;Combustão;2022;São Paulo;SP;Sudeste;Pix;1,2428;721000
+VND-080;911 GT3;911;Esportivo;Combustão;2024;Ribeirão Preto;SP;Sudeste;Pix;2,3261;2280000
+VND-081;911 Carrera;911;Esportivo;Combustão;2024;Belo Horizonte;MG;Sudeste;Cartão de crédito;1,3178;1291000
+VND-082;Cayenne;Cayenne;SUV;Combustão;2023;São Paulo;SP;Sudeste;TED;1,1003;891000
+VND-083;Macan S;Macan;SUV;Combustão;2022;Ribeirão Preto;SP;Sudeste;Financiamento;1,1851;687000
+VND-084;Taycan 4S;Taycan;Sedã / GT;Elétrico;2025;São Paulo;SP;Sudeste;Pix;1,1352;965000
+VND-085;Panamera;Panamera;Sedã / GT;Combustão;2021;São Paulo;SP;Sudeste;Dinheiro;1,1329;1088000
+VND-086;718 Cayman;718;Esportivo;Combustão;2023;Brasília;DF;Centro-Oeste;Cartão de débito;1,1288;926000
+VND-087;911 Turbo S;911;Esportivo;Combustão;2026;Campinas;SP;Sudeste;Pix;2,5888;2537000
+VND-088;Cayenne Coupe;Cayenne;SUV;Combustão;2024;São Paulo;SP;Sudeste;Pix;1,416;1147000
+VND-089;Macan Electric;Macan;SUV;Elétrico;2026;Salvador;BA;Nordeste;Financiamento;1,5722;912000
+VND-090;Taycan Turbo;Taycan;Sedã / GT;Elétrico;2025;Goiânia;GO;Centro-Oeste;Boleto;1,4029;1192000
+VND-091;Panamera 4S;Panamera;Sedã / GT;Combustão;2024;Porto Alegre;RS;Sul;Cartão de crédito;1,6643;1598000
+VND-092;911 GT3;911;Esportivo;Combustão;2026;Goiânia;GO;Centro-Oeste;Pix;2,4143;2366000
+VND-093;Cayenne E-Hybrid;Cayenne;SUV;Híbrido;2023;Rio de Janeiro;RJ;Sudeste;Leasing;1,2604;1021000
+VND-094;Macan T;Macan;SUV;Combustão;2022;Porto Alegre;RS;Sul;Dinheiro;1,2632;733000
+VND-095;Taycan GTS;Taycan;Sedã / GT;Elétrico;2025;São Paulo;SP;Sudeste;Criptomoeda;1,2703;1080000
+VND-096;718 Boxster;718;Esportivo;Combustão;2021;São Paulo;SP;Sudeste;TED;1,0286;843000
+VND-097;911 Targa 4;911;Esportivo;Combustão;2024;Brasília;DF;Centro-Oeste;Financiamento;1,4875;1458000
+VND-098;Panamera Turbo;Panamera;Sedã / GT;Combustão;2020;Recife;PE;Nordeste;Pix;1,9231;1846000
+VND-099;Cayenne Turbo GT;Cayenne;SUV;Combustão;2025;Brasília;DF;Centro-Oeste;Cartão de crédito;2,6667;2160000
+VND-100;911 Dakar;911;Esportivo;Combustão;2024;Curitiba;PR;Sul;Leasing;2,8214;2765000
