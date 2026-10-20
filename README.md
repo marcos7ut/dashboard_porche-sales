@@ -30,7 +30,7 @@ Filtros disponíveis: linha, ano, estado, propulsão e forma de pagamento. Todos
 
 ```
 index.html                      painel (HTML + CSS + JS, sem dependências)
-assets/img/                     fotos das linhas 911, Taycan, Cayenne e Macan
+assets/img/                     fotos de cada linha (versão desktop e -m para celular)
 data/Porsche-Vendas-Brasil.xlsx planilha-fonte (abas Leia-me, Resumo, Vendas, Premissas, Dicionário)
 data/vendas-porsche-brasil.csv  mesma base em CSV (separador ;, UTF-8)
 README.md                       este documento
@@ -71,6 +71,7 @@ README.md                       este documento
 
 - Preços de entrada: [Vrum / Estado de Minas — "Porsche no Brasil: preços atualizados dos modelos", fev/2026](https://www.vrum.com.br/mercado/2026/02/7348831-porsche-no-brasil-precos-atualizados-dos-modelos-e-o-mais-desejado.html)
 - Rede de concessionárias: [Porsche Brasil](https://www.porsche.com/brazil/pt/aboutporsche/porschebrasil)
+- Fotografias: fotógrafos do [Unsplash](https://unsplash.com), sob a [licença Unsplash](https://unsplash.com/license) (uso livre). Recorte, ajuste de cor e compressão feitos para o painel.
 
 ## Dicionário de dados (`data/vendas-porsche-brasil.csv`)
 
